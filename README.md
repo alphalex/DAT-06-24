@@ -7,4 +7,4 @@ Students should regularly do `pull` requests to get new updates as they happen.
  * Make sure you have git bash or git desktop installed
  * navigate to the file directory where you'd like to have the repo installed
  * do the following command:
-  * `git clone https://github.com/JonathanBechtel/DAT-06-24.git`
+  * `https://github.com/JonathanBechtel/DAT-06-24.git`
