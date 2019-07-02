@@ -1,3 +1,5 @@
+##forked from JonathanBechtel/DAT-06-24
+
 # DAT-06-24
 This is the course repository for General Assembly's Part Time Data Science Course that starts on 06-24 and ends on 08-28.  
 It's intended to be used as the primary source of information for all classroom materials, notebooks, handouts and other updates.
